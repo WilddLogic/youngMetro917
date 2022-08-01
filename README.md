@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @youngMetro917
+- 👋 Hi, I’m @WilddLogic
 - 👀 I’m interested in building applications and increasing my programming skills.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning javascript.
 - 💞️ I’m looking to collaborate on small beginning projects that will allow me to gain experience and have real world application.
 - 📫 I am reachable at dwight.wilson.jr@gmail.com
 
